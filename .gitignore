@@ -24,3 +24,5 @@ storybook-static
 *.pdb
 *.opendb
 *.VC.db
+/.vs/slnx.sqlite
+/.vs/Guild-Wars-Reforged-Elite-Skill-Capture-Checklist.slnx/v18/.wsuo
