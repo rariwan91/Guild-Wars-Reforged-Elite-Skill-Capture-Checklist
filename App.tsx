@@ -295,7 +295,7 @@ const App: React.FC = () => {
              {/* Logo Section */}
              <div className="flex items-center gap-4 animate-in fade-in duration-500">
                 <img 
-                  src={`${import.meta.env.BASE_URL}logo.png`}
+                  src="logo.png"
                   alt="Guild Wars Reforged" 
                   className="h-14 md:h-16 w-auto object-contain hover:brightness-110 transition-all drop-shadow-md" 
                 />
